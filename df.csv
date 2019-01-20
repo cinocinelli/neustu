@@ -1,0 +1,1 @@
+a=,{string.ascii_uppercase[i]:i,for,i,in,range(10)}
